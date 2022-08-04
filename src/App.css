@@ -1,0 +1,29 @@
+p{
+  background-color: rgb(103, 184, 216);
+}
+
+#img { 
+ border-radius: 10%;
+ width: 30%;
+ height: 45%;
+ padding: 10px 
+}
+#title{
+  background-color: rgb(93, 123, 206);
+}
+.age{
+  text-align: center;
+}
+#fileToUpload{
+margin-left: 10px;
+}
+
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+
+
